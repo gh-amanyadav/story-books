@@ -14,7 +14,7 @@ const Login = () => {
             // can be one of 'email' or 'phone_number_sms'
             identifierType: 'email',
             // Add the API key copied from 5th step
-            apiKey: '3bdeefac-aaa8-4769-a1ca-d718c221bd64',
+            apiKey: 'c44f5272-cd74-4cbb-af2b-b3906fa9a1fe',
             // Add a callback here to handle the payload sent by sdk
             onSuccess: payload => {
                 console.log(payload)
